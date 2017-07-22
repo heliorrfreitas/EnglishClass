@@ -1,0 +1,6 @@
+List of exercise:
+
+1 - Read the text_example.txt file.
+
+2 - After reading the text_example.txt, write your own introductory text. 
+Feel free to change the structure and use different words. Use your creativity.
